@@ -1,3 +1,3 @@
 # MacAulayLab-RNAseq3-Zucker #
 
-### Github will be filled out sortly ### 
+### Script for zucker study will be uploaded before 22nd of May ### 
