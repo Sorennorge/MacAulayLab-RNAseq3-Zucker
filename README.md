@@ -4,7 +4,7 @@ All programs used are free and open-source.
 In the interest of open science and reproducibility, all data and source code used in our research is provided here.\
 Feel free to copy and use code, but please cite:\
 (coming soon) \
-*Remember* rewrite file_names and folder_names suitable for your pipeline.\
+*Remember* rewrite file_names and folder_names suitable for your pipeline.
 
 ## The RNAseq and Analysis follows these steps:
 ## Raw data analysis - Library Build, Mapping and Quantification ##
