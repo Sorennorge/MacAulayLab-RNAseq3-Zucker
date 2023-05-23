@@ -57,7 +57,7 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 
 5.1.1 - Enrichment - Transport analysis - Convert raw data.py \
 5.1.2 - Enrichment - Transport analysis - subcellular location.py \
-5.1.3 - Enrichment - Transport analysis - Generate count tables \
+5.1.3 - Enrichment - Transport analysis - Generate count tables.py
 
 # Testosterone treated Zucker rats (Obese TT vs lean (VEH)) #
 
@@ -98,7 +98,7 @@ The analysis uses RNA STAR for mapping and RSEM for TPM quantification.
 
 12.1.1 - Enrichment - Transport analysis - Convert raw data.py \
 12.1.2 - Enrichment - Transport analysis - subcellular location.py \
-12.1.3 - Enrichment - Transport analysis - Generate count tables \
+12.1.3 - Enrichment - Transport analysis - Generate count tables.py
 
 ## Calculate adjusted p-value for transport ##
 
